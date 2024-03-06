@@ -48,10 +48,10 @@
                                     </svg>
                                 </div>
 
-                                <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Si Kancil</h2>
+                                <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">documentation</h2>
 
                                 <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
-                                    Saya merupakan hewa, memiliki mata, hidung, telinga, dan anggota tubuh lainnya. Saya memiliki teman dikampus yang bernama Dikal. Dikal memberikan tugas ini kepada Kancil. Dikal sangat keren!
+                                    Laravel has wonderful, thorough documentation covering every aspect of the framework. Whether you are new to the framework or have previous experience with Laravel, we recommend reading all of the documentation from beginning to end.
                                 </p>
                             </div>
 
@@ -68,10 +68,10 @@
                                     </svg>
                                 </div>
 
-                                <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Laracasts</h2>
+                                <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Si Kancil</h2>
 
                                 <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
-                                    Laracasts offers thousands of video tutorials on Laravel, PHP, and JavaScript development. Check them out, see for yourself, and massively level up your development skills in the process.
+                                    Saya merupakan hewa, memiliki mata, hidung, telinga, dan anggota tubuh lainnya. Saya memiliki teman dikampus yang bernama Dikal. Dikal memberikan tugas ini kepada Kancil. Dikal sangat keren!
                                 </p>
                             </div>
 
