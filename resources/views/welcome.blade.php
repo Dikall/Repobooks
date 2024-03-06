@@ -48,10 +48,10 @@
                                     </svg>
                                 </div>
 
-                                <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Insan Hadid</h2>
+                                <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Documentation</h2>
 
                                 <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
-                                    Saya merupakan manusia, memiliki mata, hidung, telinga, dan anggota tubuh lainnya. Saya memiliki teman dikampus yang bernama Dikal. Dikal memberikan tugas ini kepada saya. Dikal sangat keren!
+                                    Laravel has wonderful, thorough documentation covering every aspect of the framework. Whether you are new to the framework or have previous experience with Laravel, we recommend reading all of the documentation from beginning to end.
                                 </p>
                             </div>
 
