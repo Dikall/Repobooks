@@ -20,3 +20,7 @@ Route::get('Rusak Saja Buku Ini', function () {
 Route::get('Si Kancil', function () {
     return view('namaweb');
 });
+
+Route::get('Mantappu Jiwa', function () {
+    return view('documentation');
+});
