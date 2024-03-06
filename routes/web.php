@@ -17,6 +17,6 @@ Route::get('Rusak Saja Buku Ini', function () {
     return view('vibrantecosystem');
 });
 
-Route::get('Si Kancil', function () {
-    return view('namaweb');
+Route::get('Bukan Untuk Dibaca', function () {
+    return view('laravelnews');
 });

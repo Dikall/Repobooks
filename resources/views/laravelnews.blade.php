@@ -88,10 +88,10 @@
                                     </svg>
                                 </div>
 
-                                <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Laravel News</h2>
+                                <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Bukan Untuk Dibaca</h2>
 
                                 <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
-                                    Laravel News is a community driven portal and newsletter aggregating all of the latest and most important news in the Laravel ecosystem, including new package releases and tutorials.
+                                Buku Bukan untuk Dibaca berisi artikel-artikel yang ada di internet kemudian dibukukan, jadi seringkali ada artikel di internet yang bagus dan berkesan, namun bisa terlupakan karena sudah lewat.
                                 </p>
                             </div>
 
