@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Ketua Book</title>
+        <title>XERENITY BOOK</title>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
@@ -48,10 +48,10 @@
                                     </svg>
                                 </div>
 
-                                <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Insan Hadid</h2>
+                                <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Si Kancil</h2>
 
                                 <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
-                                    Saya merupakan manusia, memiliki mata, hidung, telinga, dan anggota tubuh lainnya. Saya memiliki teman dikampus yang bernama Dikal. Dikal memberikan tugas ini kepada saya. Dikal sangat keren!
+                                    Saya merupakan hewa, memiliki mata, hidung, telinga, dan anggota tubuh lainnya. Saya memiliki teman dikampus yang bernama Dikal. Dikal memberikan tugas ini kepada Kancil. Dikal sangat keren!
                                 </p>
                             </div>
 
