@@ -20,3 +20,7 @@ Route::get('Rusak Saja Buku Ini', function () {
 Route::get('Bukan Untuk Dibaca', function () {
     return view('laravelnews');
 });
+
+Route::get('Mantappu Jiwa', function () {
+    return view('documentation');
+});
