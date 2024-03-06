@@ -4,11 +4,11 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>XERENITY BOOK</title>
+        <title>GHOST BOOK</title>
 
         <!-- Fonts -->
-        <link rel="preconnect" href="https://fonts.bunny.net">
-        <link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet" />
+        <font-family: 'Mooli', sans-serif;>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Mooli&display=swap"/>
 
         <!-- Styles -->
         <style>
