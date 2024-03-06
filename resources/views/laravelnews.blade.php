@@ -91,7 +91,7 @@
                                 <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Bukan Untuk Dibaca</h2>
 
                                 <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
-                                Buku Bukan untuk Dibaca berisi artikel-artikel yang ada di internet kemudian dibukukan, jadi seringkali ada artikel di internet yang bagus dan berkesan, namun bisa terlupakan karena sudah lewat.
+                                    Buku Bukan untuk Dibaca berisi artikel-artikel yang ada di internet kemudian dibukukan, jadi seringkali ada artikel di internet yang bagus dan berkesan, namun bisa terlupakan karena sudah lewat.
                                 </p>
                             </div>
 
