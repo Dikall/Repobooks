@@ -24,3 +24,7 @@ Route::get('Bukan Untuk Dibaca', function () {
 Route::get('Mantappu Jiwa', function () {
     return view('documentation');
 });
+
+Route::get('Si Kancil', function () {
+    return view('namaweb');
+});
